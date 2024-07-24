@@ -32,6 +32,7 @@
     </q-form>
   </div>
 </template>
+
 <script>
 import { useQuasar } from 'quasar'
 import { ref } from 'vue'
